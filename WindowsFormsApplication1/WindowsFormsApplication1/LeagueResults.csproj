@@ -54,6 +54,13 @@
       <DependentUpon>AddTeam.cs</DependentUpon>
     </Compile>
     <Compile Include="AddValues.cs" />
+    <Compile Include="CreateLeague.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateLeague.Designer.cs">
+      <DependentUpon>CreateLeague.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DbTableCreation.cs" />
     <Compile Include="dodaj_wynik.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +78,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AddTeam.resx">
       <DependentUpon>AddTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateLeague.resx">
+      <DependentUpon>CreateLeague.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="dodaj_wynik.resx">
       <DependentUpon>dodaj_wynik.cs</DependentUpon>

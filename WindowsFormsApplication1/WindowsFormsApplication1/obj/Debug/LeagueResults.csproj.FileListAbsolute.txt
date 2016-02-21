@@ -1,3 +1,17 @@
 C:\Users\Darek\Documents\Projekty\Liga\liga\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 C:\Users\Darek\Documents\Projekty\Liga\liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Darek\Documents\Projekty\Liga\liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Npgsql.dll
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Npgsql.xml
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LeagueResults.csprojResolveAssemblyReference.cache
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddTeam.resources
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dodaj_wynik.resources
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LeagueResults.csproj.GenerateResource.Cache
+C:\Users\Darek\Documents\Projekty\Liga\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CreateLeague.resources

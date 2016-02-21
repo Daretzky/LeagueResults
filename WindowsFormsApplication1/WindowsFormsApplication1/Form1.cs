@@ -22,18 +22,7 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
-            try
-            {
-                
-                dt = sql.readQuery(ds, dt, 1);
-                dataGridView1.DataSource = dt;
-            }
-            catch (Exception msg)
-            {
-               
-                MessageBox.Show(msg.ToString());
-                throw;
-            }
+           
 
         }
         
@@ -110,6 +99,12 @@ namespace WindowsFormsApplication1
         {
             AddTeam dodaj_wynik = new AddTeam();
             dodaj_wynik.Show();
+        }
+
+        private void addLeagueToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CreateLeague createLeague = new CreateLeague();
+            createLeague.Show();
         }
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WindowsFormsApplication1;
 
 namespace WindowsFormsApplication1
 {
@@ -16,6 +17,13 @@ namespace WindowsFormsApplication1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+
+            bool ifExists = DbTableCreation.checkIfExists();
+            if ( ifExists == false) {
+                DbTableCreation.databaseCreation();
+            };
+
+
             Application.Run(new Form1());
         }
     }

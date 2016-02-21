@@ -69,7 +69,7 @@
             this.meczeToolStripMenuItem,
             this.druzynyToolStripMenuItem});
             this.wynikiToolStripMenuItem.Name = "wynikiToolStripMenuItem";
-            this.wynikiToolStripMenuItem.Size = new System.Drawing.Size(54, 20);
+            this.wynikiToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
             this.wynikiToolStripMenuItem.Text = "Tabele";
             this.wynikiToolStripMenuItem.Click += new System.EventHandler(this.wynikiToolStripMenuItem_Click);
             // 
@@ -124,6 +124,7 @@
             this.addLeagueToolStripMenuItem.Name = "addLeagueToolStripMenuItem";
             this.addLeagueToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
             this.addLeagueToolStripMenuItem.Text = "Add league";
+            this.addLeagueToolStripMenuItem.Click += new System.EventHandler(this.addLeagueToolStripMenuItem_Click);
             // 
             // Form1
             // 
